@@ -1,0 +1,66 @@
+name: pet_care_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  figma: ^7.1.1
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.10+1
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets\splashicon.png
+   - assets\BrandmarkLogo.png
+   - assets\profile.png
+   - assets\dash.png
+   - assets\vetirenary.png
+   - assets\training.png
+   - assets\petStrore.png
+   - assets\grooming.png
+   - assets\Event.png
+   - assets\event1.png
+   - assets\community.png
+   - assets\veternary1.png
+   - assets\vaccination.png
+   - assets\operation.png
+   - assets\bheverials.png
+   - assets\denistry.png
+   - assets\Dr.anna.png
+   - assets\Dr.vernor.png
+   - assets\datail.png
+   - assets\training1.png
+   - assets\training2.png
+   - assets\training3.png
+   - assets\training4.png
+   - assets\training5.png
+   - assets\training2a.png
+   - assets\trai3.png
+   - assets\trai4.png
+   - assets\trai5.png
+   - assets\grooming1.png
+   - assets\image.svg
+   - assets\card1.png
+   - assets\card2.png
+   - assets\card3.png
+   - assets\card4.png
+   - assets\card6.png
+   - assets\card5.png
+   - assets\gro.png
+   - assets\shop1.png
+   - assets\shop2.png
+   - assets\shop3.png
+   - assets\shop4.png
+   - assets\shop5.png
+   - assets\shop6.png
